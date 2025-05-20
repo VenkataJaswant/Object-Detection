@@ -1,0 +1,5 @@
+train : C:\Users\Harini Pantangi\Desktop\Object Detection\yolo-object-detection\yolo\train
+val: C:\Users\Harini Pantangi\Desktop\Object Detection\yolo-object-detection\yolo\val
+
+nc: 1
+names: ["DDC"]
